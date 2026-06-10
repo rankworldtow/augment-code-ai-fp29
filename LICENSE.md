@@ -1,4 +1,4 @@
-# 
+# Officiel Augment Code plugins. Avec support communautaire et interface conviviale — optimisé pour des performances et une efficacité maximales.
 
 
 
